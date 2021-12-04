@@ -44,7 +44,7 @@ $ choco install make
 ```
 3. Clone the repository:
 ```
-$ git clone https://github.com/Praveendwivedi/hello-buddy 
+$ git clone  
 $ cd hello-buddy
 $ make
 ```
@@ -62,4 +62,4 @@ $ make
   $ make run
   ```  
 
-# [Checkout this video](https://youtu.be/dxbS4dD5-d8)!!
+# [Checkout this video](https://youtu.be/uK4bmVSm6pU)!
